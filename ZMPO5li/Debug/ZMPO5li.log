@@ -1,0 +1,5 @@
+﻿  CIndividual.cpp
+c:\users\kinga\source\repos\zmpo5li\zmpo5li\cindividual.cpp(300): warning C4715: 'CIndividual<bool>::cGetCHildren': not all control paths return a value
+c:\users\kinga\source\repos\zmpo5li\zmpo5li\cindividual.cpp(300): warning C4715: 'CIndividual<double>::cGetCHildren': not all control paths return a value
+c:\users\kinga\source\repos\zmpo5li\zmpo5li\cindividual.cpp(300): warning C4715: 'CIndividual<int>::cGetCHildren': not all control paths return a value
+  ZMPO5li.vcxproj -> C:\Users\Kinga\source\repos\ZMPO5li\Debug\ZMPO5li.exe
